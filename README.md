@@ -10,44 +10,42 @@
  - ruby
  - rspec
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
+- A text editor(preferably Visual Studio Code)
 
 ### Install
+- Ruby
 
-### Usage
+### Using it Locally
 
-### Run tests
+- Clone the project
 
-### Deployment
+```bash 
+git clone git@github.com:t-bello7/micro-tdd.git
 
+cd micro-tdd
+```
 
+- To Start the programs
+
+```bash
+open terminal
+run the command $irb (interactive ruby shell)
+run the program functions
+```
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@t-bello7](https://github.com/t-bello7)
+- Twitter: [@__tbello](https://twitter.com/__tbello)
+- LinkedIn: [Bello](https://linkedin.com/in/tbello7)
 
 👤 **Author2**
 
@@ -74,5 +72,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
