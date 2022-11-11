@@ -1,2 +1,0 @@
-def fizzbuzz(number)
-end
